@@ -1,5 +1,5 @@
 // how do we cache an api key?
-var api_key = "AIzaSyBF51v6ZY98M1dGU4KFzt7vzprBr-NGgOE";
+var api_key = "key";
 var channel_key = "UCtoaZpBnrd0lhycxYJ4MNOQ";
 var urlRoot = "https://www.googleapis.com/youtube/v3/";
 
